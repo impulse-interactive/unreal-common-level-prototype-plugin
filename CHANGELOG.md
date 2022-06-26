@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     -   Added Contributing guidelines ([686eac5](https://github.com/impulse-interactive/unreal-common-level-prototype-plugin/commit/686eac5))
     -   Added Release workflow ([410c254](https://github.com/impulse-interactive/unreal-common-level-prototype-plugin/commit/410c254))
 
+-   Plugin Setup ([#2](https://github.com/impulse-interactive/unreal-common-level-prototype-plugin/pull/2))
+    -   Added Plugin files ([c9a6887](https://github.com/impulse-interactive/unreal-common-level-prototype-plugin/commit/c9a6887))
+
 ## 0.1.0 - 2022-06-26
 
 -   Initial Commit ([8af899f](https://github.com/impulse-interactive/unreal-common-level-prototype-plugin/commit/8af899f))
